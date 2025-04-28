@@ -24,6 +24,6 @@ Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V)
 ## TABLE
 ![image](https://github.com/user-attachments/assets/f5b03920-9e57-454b-94e7-ecc03bdd4e03)
 ## OUTPUT GRAPHS
-
+![WhatsApp Image 2025-04-15 at 20 30 05_da14a9a4](https://github.com/user-attachments/assets/beadfa7c-6aa6-4f4b-8295-58acd1448c63)
 ## RESULT 
 Thus, the way implementation of Line Codeing Techniques was successfully verified.
